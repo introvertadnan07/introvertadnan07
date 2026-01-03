@@ -1,5 +1,48 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact 🥰
+🔭Hi, I’m Md Adnan Qaisar — a Computer Science & AI Engineering student with strong interest in AI systems, backend development, and scalable applications.
+
+What I do
+
+Build AI-powered applications using Python, LangGraph, OpenAI APIs, and vector databases
+
+Develop full-stack and backend systems with clean architecture and production mindset
+
+Work with databases, APIs, cloud tools, and async pipelines
+
+Currently focused on
+
+Generative AI and RAG systems
+
+LangGraph, MongoDB, Redis, Qdrant
+
+Backend system design and deployment
+
+Improving problem-solving and code quality
+
+What I’m looking for
+
+Internships / entry-level roles in:
+
+AI / ML Engineering
+
+Backend / Full-Stack Development
+
+Data / Platform Engineering
+
+Open-source and collaborative projects
+
+What you can ask me about
+
+Python, APIs, databases
+
+AI application development
+
+LangGraph & RAG pipelines
+
+Learning and building projects from scratch
+
+🎯 Career goal:
+To grow into a strong AI Engineer and build reliable, real-world systems—not just demos.
 
 
 ## 🌐 Socials:
