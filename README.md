@@ -1,7 +1,7 @@
 💫 About Me
 
 Md Adnan Qaisar
-AI/ML Intern | Full-Stack & Backend Developer | Aspiring AI Engineer
+AI/ML job | Full-Stack & Backend Developer | Aspiring AI Engineer
 
 B.Tech in Computer Science (Artificial Intelligence) with a strong focus on building intelligent, scalable, and production-ready systems. I enjoy combining backend engineering with AI to create applications that are both efficient and meaningful.
 
